@@ -85,7 +85,7 @@ int x=0;
          printf("Enter the number and position");
          int number,position;
          scanf("%d %d",&number,&position);
-         printf("\n%d %d ",number,position);
+//          printf("\n%d %d ",number,position);
          insertatk(&head,number,position);
         
 
